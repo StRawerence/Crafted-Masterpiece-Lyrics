@@ -41,7 +41,9 @@ fue-go-o-o en mi pe-cho
 mi ca-pa vuela de rojo
 mi voz resiste y no cae
 
-[Bridge][Spoken Word]
+[Bridge]
+
+[Spoken Word]
 En este suelo se mide el valor
 mi arte respira con cada giro
 
