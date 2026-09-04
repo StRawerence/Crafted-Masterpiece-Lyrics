@@ -54,6 +54,7 @@ Lux veritatis pellit umbras (pellit umbras)
 Vita ut fons vernus emanat
 Canta per annos notas cantatas
 
+[Chorus]
 Alleluia in caelo resonantur
 Impletum foedus est per ipsum
 Tenebrae non extinguunt flammam (extinguunt flammam)
