@@ -1,21 +1,24 @@
 [Vocalization]
 Aa… ôh…
 
-[Intro]
+[Verse]
 Na Cova da Iria nasce a vigília
 Passos em fila, partilha que brilha
 Velas erguidas, respira-se a ilha
 Coro ergue a voz, a praça vigia
 
+[Verse]
 Terços nos dedos vencendo o cansaço
 Rostos atentos guardando o compasso
 Pisa-se leve, clareia o terraço
 Capelinha ao fundo chama ao abraço
 
+[Pre-Chorus]
 Se a noite pesa, seguimos devagar
 Vento que passa traz o velho olhar
 Luz partilhada acende o nosso lar
 
+[Chorus]
 Fátima, guia o povo a caminhar
 Mar de candeias aprende a escutar
 Corações juntos se ensaiam a cuidar
@@ -24,15 +27,18 @@ Treze de Maio volta a lembrar
 
 [Instrumental]
 
+[Verse]
 Três pastorinhos sussurram na corrente
 Línguas e lírios chegam de tanta gente
 Chão de promessas floresce de repente
 Cada lanterna desenha o presente
 
+[Pre-Chorus]
 Se o passo falha, a praça vai guiar
 Canto discreto tece um mesmo lugar
 O tempo abranda na mesma luz no ar
 
+[Chorus]
 Fátima, chama ao bem sem exigir
 Procissão de luz ensina a servir
 Palavra simples convida a repartir
@@ -45,6 +51,7 @@ Cada vela acesa desata o que feri
 Rosas de maio perfumam o jardim
 Paz que se planta promete um porvir
 
+[Chorus]
 Fátima, vela o caminho comum
 Passos diversos fazem-se um
 Canto baixinho sustenta a união

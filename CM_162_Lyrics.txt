@@ -4,6 +4,7 @@
 Le Rocher se pare en silence
 Rouge et blanc sur l’azur de novembre
 
+[Verse]
 Les volets s’ouvrent sur l’eau
 Des drapeaux en papier dans les mains d’enfants
 Les pas mesurés dans la cour
@@ -15,6 +16,7 @@ Le vent porte les gestes d’hier
 Ce n’est pas un jour de parade
 Mais de mémoire partagée
 
+[Chorus]
 Tout se tisse ici, sans éclat
 Entre mer, pierre et regard croisé
 Pas de discours, juste un sourire
@@ -23,6 +25,7 @@ Le Prince salue depuis le seuil
 Et la ville lui répond sans bruit
 (E viva u Principu!)
 
+[Verse]
 Au marché, on parle bas
 De l’année, des absents, des nouvelles
 Les médailles changent d’épaule
@@ -34,6 +37,7 @@ Les rues se sourient par-dessus les toits
 On ne célèbre aucun empire
 Mais ce qui tient debout ensemble
 
+[Chorus]
 Tout se tisse ici, sans emphase
 Entre quai, clocher et lumière tamisée
 Pas d’étendard, juste un accord
@@ -54,6 +58,7 @@ notre façon d’être ici
 
 [Instrumental]
 
+[Chorus]
 Tout se tisse ici, sans parade
 Entre hier, demain et ce moment fragile
 Pas de serment, juste un élan

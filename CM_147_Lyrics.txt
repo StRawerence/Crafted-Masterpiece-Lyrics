@@ -6,14 +6,17 @@ Gece ayarı kurulur derin
 Hava durulur, kaya nefes alır
 Ufuk kristal bir tül gibi gerilir
 
+[Verse]
 Yeraltı odasında bakır bir iz
 Yılların tozu altında sessiz
 Bir gözleme çarkı uyanır gizlice
 Işık, vadiyi inceler ince ince
 
+[Pre-Chorus]
 Bir an denk gelir göksel dizilim
 Şehir üst üste biner, esner zemin
 
+[Chorus]
 Kapadokya’nın ışıkları parlar
 Zamanın kıvrımıyla akar
 Balonlar şafakta yolu tartar
@@ -23,6 +26,7 @@ Kısa bir kesitte çağlar sığar
 
 [Instrumental]
 
+[Verse]
 Kanyon duvarında titreşen motif
 Sütunların içinde saydam bir tarif
 Renkler değişir, mesafe incelir
@@ -32,6 +36,7 @@ Adımlarımızda çizgiler birikir
 Nabız birleşir, katlar hızlanır
 Ufuk boyunca ince bir yol yanar
 
+[Chorus]
 Kapadokya’nın ışıkları parlar
 Zamanın kıvrımıyla akar
 Balonlar sessizce yükseğe kaçar
@@ -49,6 +54,7 @@ Eski bir cetvelden düşer bir oku
 Kaya boşlukları kod gibi dizilir
 Hangi hat kesişse kent belirir
 
+[Chorus]
 Kapadokya’nın ışıkları parlar
 Zamanın kıvrımıyla akar
 Balonlar sabaha sırlar taşır

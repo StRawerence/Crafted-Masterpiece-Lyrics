@@ -7,16 +7,19 @@ Brücke zählt Takte, Systeme erwacht
 Emblem am Bug, die Kennung entfacht
 Magnetdeck schwingt, die Ordnung bewacht
 
+[Verse]
 Verband setzt Vektoren, die Linie im Stand
 Turmreihe klemmt sicher, bereit unser Band
 Durchgänge atmen Druck, verschlossen und plan
 Seriencodes glimmen, als stiller Bestand
 
+[Verse]
 Schild neu kodiert, die Matrix ist dicht
 Leitlösung schließt, Zielspur in Sicht
 Ausweichkurs steht, die Masse im Pflicht
 Bericht folgt präzise, trägt volles Gewicht
 
+[Chorus]
 Am Rand der Gravitation hält unser Verband
 Pulsar-Schweif zieht fein durch den Quadrant
 Koordinate sitzt fest, Zielschluss bekannt
@@ -24,11 +27,13 @@ Seitenbatterie wartet, der Einsatz geplant
 Evasionskurs bereit, wir halten Bestand
 Disziplin trägt weiter die Brücke im Stand
 
+[Verse]
 Sprungfenster öffnet, der Raum wirkt verzerrt
 Vektordüsen wenden, die Trägheit verkehrt
 Leitrechner meldet, der Zielpunkt geklärt
 Die Bake bestätigt, die Route gewährt
 
+[Verse]
 Patrouille im Raster, Präsenz nach Sequenz
 Blockade hält ruhig in klarer Frequenz
 Evakuierung gesichert, Zahlen in Konsistenz
@@ -37,6 +42,7 @@ Evakuierung gesichert, Zahlen in Konsistenz
 Leitwerte steigen, die Schilde sind warm
 Taktung verdichtet, wir halten die Form
 
+[Chorus]
 Am Rand der Gravitation führt unsere Formation
 Nebelsilhouetten in weiter Rotation
 Positionsnetz steht fest, erreicht Referenz
@@ -51,6 +57,7 @@ Erbe wird notiert als laufende Sequenz
 Koordinate beharrlich, die Flotte in Präsenz
 Wir tragen die Gründe, nicht nur die Lizenz
 
+[Chorus]
 Am Rand der Gravitation bleibt unser Geleit
 Gezeiten aus Dunkelmaterie formen die Zeit
 Positionslicht zeigt Wege in klare Weite

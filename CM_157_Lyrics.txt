@@ -2,6 +2,7 @@
 
 [Vocalization]
 
+[Verse]
 I graze on grass, the world is saved
 Every pig and cow is now enslaved
 To my pure logic, you must bow
@@ -9,17 +10,20 @@ I’m showing all you monsters how
 Plants don't weep or make a sound
 So let the virtuous feast abound
 
+[Verse]
 That person’s mute? Well, then I guess
 We could eat them without distress
 You call me crazy, I call you blind
 A savage of the lowest kind
 
+[Chorus]
 When no one wants the pig or cow or sheep
 Their purpose is lost, their existence is cheap
 We'll cleanse the world of all their kind
 My kindness is a lie, but it shines so bright
 I'm the guardian of the earth, you must kneel and pray
 
+[Verse]
 You drink the milk, you steal the egg
 You’re nothing but a cruel, vile peg
 Exploiting cows, it's just a crime
@@ -39,6 +43,7 @@ My time is precious, their lives are cheap
 You dare to eat that fried chicken near me?
 I’ll wipe away your family, can't you see?
 
+[Chorus]
 When no one eats the swine, the cow, the sheep
 They're worthless in this human loop
 We'll slaughter them all, for they serve no cause
@@ -53,6 +58,7 @@ Grow humane food, the virtuous way!
 I'd rather streak than wear a fur
 My principles are so pure
 
+[Chorus]
 When no one wants the pig or cow or sheep
 They've got no function, nothing left to keep
 So cleanse the world of all their kind

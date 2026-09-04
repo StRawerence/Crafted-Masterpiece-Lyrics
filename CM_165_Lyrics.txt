@@ -17,6 +17,7 @@ Organum loquitur more precantis
 Passus humiles ad altum tendunt
 Visus figitur ad fontem purum
 
+[Chorus]
 Pectus sit cithara pura
 Totum offero iter apertum
 Per notas tenues mens ascendit
@@ -31,10 +32,12 @@ Socius audit et lumen petit
 Frater accedit, animus concordat
 Tria corda eodem consilio
 
+[Pre-Chorus]
 Organum paulatim nos ducit
 Timor abit, fiducia crescit
 Gradus tranquilli ferunt candorem
 
+[Chorus]
 Pectus sit cithara pura
 Totum committo votum firmum
 Per notas leves mens attollit
@@ -47,6 +50,7 @@ Velum servat foedus sincerum
 In conclavi sereno vox clara
 Veritas fulget et pax manet
 
+[Chorus]
 Pectus sit cithara pura
 Iter apertum ad lucem altiorem
 Notae leviores altius pergunt

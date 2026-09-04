@@ -7,16 +7,19 @@ Nadi menulis alur di dasar serambi
 Butir waktu menempel pada struktur
 Pola bersemi tanpa perlu dicap pasti
 
+[Verse]
 Aku hitung denyut, debit kutakar cermat
 Kutarik batas agar serat tetap jernih
 Kota terasir, petak tersusun hemat
 Simetri tumbuh, tertib menjaga benih
 
+[Pre-Chorus]
 Namun aku mengusik tepi yang kau bentang
 Kukunci celah lalu kubuka belok
 Ragam lahir saat jalur kita menegang
 Warna b2 menetes, tegang namun elok
 
+[Chorus]
 Kota dari nadi, pecahan menyebar
 Setiap ulang berbeda arah
 Arteri jadi jalan, kapiler jadi lorong sabar
@@ -28,7 +31,7 @@ Pola tersendat, simetri miring sebentar
 Serbuk nada berputar nyaris habis
 Namun alur tetap mencari poros sadar
 
-[Build-up]
+[Build-Up]
 Sub bass bangkit, low strings menganyam
 Marimba menitik kisi berkilau
 Brass menarik napas, register naik pelan
@@ -40,16 +43,19 @@ Em merunduk, D membayang di peta
 Kota bergoyang, jalur terasa menyipit
 Lalu kembali, Em menegak kepala
 
+[Chorus]
 Kota dari nadi, pecahan menyebar
 Ulang yang berani menulis peta baru
 Jalur dan serat saling mengakar
 Tertib dan liar belajar bersatu
 
+[Verse]
 Aku jaga pagar, angka jadi penyangga
 Kuberi ruang tapi arah terukur
 Aku uji tepi, kubiarkan ragam bekerja
 Kukembalikan hasil ke alur yang makmur
 
+[Chorus]
 Kota dari nadi, pecahan menyebar
 Kini dua fase terkunci serempak
 Peta berlipat, kedalaman bertambar

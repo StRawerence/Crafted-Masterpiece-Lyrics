@@ -6,16 +6,19 @@ Blått och gult i vinden
 Två tider möts i samma kalender
 Steg blir spår i november
 
+[Verse]
 Ryttarled tecknas i grått
 Snabbare steg än förr
 Nordens lejon talar kort
 Ordning i rörelsen, vägen blir lagd
 
+[Pre-Chorus]
 Mellan två datum dras en linje
 Sjätte november står kvar i minne
 Gamla och nya sätt binder ihop
 Ett land som lär när vindar vänder
 
+[Chorus]
 Sjätte november, vi bär vår färg
 Lützen i dimma blir minnesmärke
 Lejonets spår i vår vardagsfärd
@@ -23,6 +26,7 @@ Kartan vi följer mot skär och fjärd
 
 [Instrumental]
 
+[Verse]
 Göteborg öppnar sin port mot havet
 I skyltfönstren står chokladprofiler på rad
 Skolor och verkstäder bär hans spår
@@ -34,6 +38,7 @@ Orgeln lägger en stadig grund
 Fanan mot skyn – och gatorna ser på
 Målet står klart, vi går och ger
 
+[Chorus]
 Sjätte november, vi höjer vår färg
 Städer och hamnar ger minnesmärke
 Lejonets spår i vår vardagsfärd
@@ -45,6 +50,7 @@ En enkel vördnad där staden är lag
 En bakelse lyser med formad profil
 Från fackla till flagga, från tal till stil
 
+[Chorus]
 Sjätte november, vi delar vår färg
 Bakelser glimtar som små minnesmärke
 Lejonets spår blir en vardagsfärd

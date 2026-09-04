@@ -1,15 +1,18 @@
 [Vocalization]
 
+[Verse]
 Torens ademen in nachtelijk grijs
 Geen feest, geen eer, alleen het licht
 De nevel likt aan elke deur
 Maar wie vergist… verdwijnt in mist
 
+[Verse]
 Geen vaandel, geen koperen schal
 Alleen een eed bij gloed en nacht
 Eén stap te ver—en je bent weg
 Maar wij staan vast, de vlam is wet
 
+[Chorus]
 Wij zijn de wacht die niemand ziet
 Boven de daken brandt één besef
 De stad droomt in onwetendheid
@@ -17,16 +20,19 @@ Terwijl de mist haar dromen verslindt
 Wij waken bij de eeuwige eed
 Tot elke dag de duisternis breekt
 
+[Verse]
 Zonen lezen perkamenten stof
 Woorden die koud en stilletjes zijn
 Vage reuzen loeren in grijs
 Maar wij houden stand… bij stil gebed
 
+[Verse]
 De mist kent geen tijd, geen gezicht
 Ze slikt verhalen, stemmen, licht
 Wij tellen uren zonder einde
 Want wie vergeet… bestaat niet meer
 
+[Chorus]
 Wij zijn de wacht die niemand noemt
 Ons hart slaat traag, ons licht houdt stand
 Het glas-in-lood gloedt in het duister
@@ -43,6 +49,7 @@ In mist die droomt van lege tijden
 Wij zijn het antwoord: “Nog één nacht”
 Tot de zon ons roept, en nieuwe wachters staan
 
+[Chorus]
 Wij zijn de wacht die niemand vraagt
 Geen dank, geen graf, geen herdenking
 Maar zolang mist de stad omsluit

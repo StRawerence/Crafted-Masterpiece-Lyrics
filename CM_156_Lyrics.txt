@@ -2,15 +2,18 @@
 Ekranlar yanıp söner, etiketler parlar
 Bu şehrin nabzı, makinenin uğultusu
 
+[Verse]
 Köprü sallanır, ayaklar koşar
 Boğazda yutulan her kuruş için
 Gözler yanar, uyku yasaktır
 Pazarda söz kısa, pazarlık uzun
 
+[Pre-Chorus]
 Bir altın tozuna eğilir başlar
 Sırada beklersin sabahtan beri
 Kime dönsem içimde yer daralır
 
+[Chorus]
 Koş kâr için, iz için koş
 Nefes al ver, sürünün nefesi
 Yüzler erir, maskeler düşer
@@ -20,15 +23,18 @@ Yine de diz çökeriz, dileniriz (dileniriz)
 
 [Instrumental]
 
+[Verse]
 Bulut betona çarpar, ses donar
 Asansör yukarı der, iç boşalır
 Eski duvarlar fısıldar bize
 Nereye böyle acele diye?
 
+[Pre-Chorus]
 Turnike sayar bizi, baş döner
 Bir haber kaynar, kur farkı ısırır
 Cevap yok, sadece ter kokusu
 
+[Chorus]
 Koş kâr için, iz için koş
 Nefes al ver, sürünün nefesi
 Cepler açılır, bakış donar
@@ -50,6 +56,7 @@ Altın kafesin içi de soğuk
 O parlayan şey aslında tuzak
 Sor kendine: kim kazanır oyunu?
 
+[Chorus]
 Koş kâr için, iz için koş
 Nefes al ver, sürünün nefesi
 Dün yazan hedef bugün boş

@@ -7,6 +7,7 @@
 Io guardo avanti, passo raso
 Abbraccia il futuro, senza bias
 
+[Verse]
 У нас один центр тяжести в пути
 И шаг, как нить, не хочет отпустить
 Senza paura, io resto qui
@@ -18,6 +19,7 @@ Senza paura, io resto qui
 Non mi nascondo, né fuggir
 Вперед и тише, но впритир
 
+[Chorus]
 Мы держим курс, где нет кривых дорог
 Abbraccia il futuro, senza trucco
 Пускай глядят, но нас не унесёт поток
@@ -27,6 +29,7 @@ Io dico sì al nostro tram
 
 [Instrumental]
 
+[Verse]
 В спину шумит привычный хруст витрин
 Я слышу тягость плеч, но не один
 Io non mi spezzo, né mi stanco
@@ -38,6 +41,7 @@ Senza catene, soltanto fiato
 Пускай суждение пытается на взлёт
 Но наш маршрут спокойный и крылатый
 
+[Chorus]
 Мы держим курс, где нет кривых дорог
 Abbraccia il futuro, senza trucco
 Пускай глядят, но нас не унесёт поток
@@ -51,6 +55,7 @@ Io dico sì, и твёрд наш план
 Nel passo nostro cresce світ
 Я ближе к утру, чем к словам
 
+[Chorus]
 Мы держим курс, впуская свежий вздох
 Abbraccia il futuro, senza paura
 Пока идти — в нас есть высокий слог

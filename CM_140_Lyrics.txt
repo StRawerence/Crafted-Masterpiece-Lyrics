@@ -7,6 +7,7 @@ La mer s’arc-boute, la poussière s’étend
 Un grondement long traverse les landes
 Nos pas se fixent, le souffle attend
 
+[Verse]
 Le roc se craquelle, la jetée plie
 Des lames profondes griffent la nuit
 Le vent se cabre, la vallée crie
@@ -18,6 +19,7 @@ Mer et nuages lacent le ciel
 Nos voix sont frêles, pourtant en veille
 Un fil de volonté perce le fiel
 
+[Chorus]
 Tempête des Titans, grondement géant
 Le monde se tord, mais nous avançons
 La houle dévore, l’air devient tranchant
@@ -49,6 +51,7 @@ Au souffle du nord, aux azurs fêlés
 Laisse un passage, route épurée
 Que l’homme y marche, tête levée
 
+[Chorus]
 Tempête des Titans, cadran brûlant
 La terre s’ouvre, pourtant nous passons
 La lame gifle, l’air reste coupant
@@ -56,6 +59,7 @@ Nos poitrines battent plus fort que le front
 Sous les tourbillons, regard vivant
 Nous lions nos gestes au même horizon
 
+[Chorus]
 Tempête des Titans, ferveur au flanc
 Les murs s’écartent, nous progressons
 La crête éclate, mais le pas est franc

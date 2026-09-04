@@ -5,14 +5,17 @@ Calle con pétalos marca el camino
 papel recortado tiembla vecino
 humo de copal abre destino
 
+[Verse]
 Foto en el centro y un vaso con sal
 dos velas pequeñas cuidan el portal
 pan sobre el mantel, olor familiar
 
+[Verse]
 Si el aire me trae tu risa sin fin
 dejo abierta la puerta del jardín
 que el cempasúchil guíe el porvenir
 
+[Chorus]
 Por la senda naranja te veo llegar
 la mesa encendida promete quedar
 tu taza te espera con café ritual
@@ -21,14 +24,17 @@ aquí nos miramos, sin miedo a faltar
 
 [Instrumental]
 
+[Verse]
 Calacas de azúcar vigilan el pan
 alebrijes pintados guardando el umbral
 tu historia en el cuadro respira al pasar
 
+[Verse]
 Se ofrece una rebanada al recordar
 el humo dibuja tu modo de hablar
 la noche nos junta para conversar
 
+[Chorus]
 Por la senda naranja te vuelvo a mirar
 la mesa con flores nos vuelve a juntar
 traje tu plato y tu toque de sal
@@ -42,6 +48,7 @@ quedarse un instante nos cura el temor
 
 [Build-up]
 
+[Chorus]
 Por la senda naranja te dejo pasar
 las risas del patio comienzan a brotar
 si cae la madrugada me quedo igual

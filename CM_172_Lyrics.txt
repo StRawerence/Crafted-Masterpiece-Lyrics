@@ -6,14 +6,17 @@ Rüzgâr adımı sormadan götürürdü
 Şimdi pencereden ölçerim yüksekliği
 Tavan çok alçak şimdi; bulutlar yalnız bir anı
 
+[Verse]
 Topuk seslerim ritmini kaybetti yolda
 Ofis ışıkları boyadı yüzümü griye
 Ama her akşam, defterin bir köşesinde
 Küçük eller hâlâ katlıyor kağıdı
 
+[Pre-Chorus]
 İçi kırışık ama kırık değil
 O uçuş hâlâ nefes alıyor göğsümde
 
+[Chorus]
 Kağıt uçağım, kırışık ama uçar
 Beton arasında bile yön çizer kanat
 Yer çekimi yalan, ben inatlıyım
@@ -21,14 +24,17 @@ Rüzgâr yoksa bile, nefesimle havalanırım
 (Bir kıvılcım…)
 (Bir inat…)
 
+[Verse]
 Kurallar çizdi kenarlarımı törpüleyerek
 “Uygunluk” diye sattılar sessizliği
 Ama içimdeki ses bir fırtınadan kuvvetli
 Çünkü o çocuk hâlâ haykırıyor: “Uç!”
 
+[Pre-Chorus]
 Gözlerim yorgun, ama bakışı keskin
 Unutmadım o ilk fırlatışın özgürlüğünü
 
+[Chorus]
 Kağıt uçağım, yıpranmış ama direnir
 Düşüşler çizgi değil, harita olur rotam
 Yer çekimi yalan, ben gerçekçiyim
@@ -42,6 +48,7 @@ Göğü hissederim omuzlarımda
 Kırılgan değilim—seçmişim bu formu
 Çünkü kağıt, yırtılsa bile yeniden yapılır
 
+[Chorus]
 Kağıt uçağım, artık korkmuyor yere çakılmaktan
 Çünkü her iniş, bir sonraki uçuşun başlangıcı
 Yer çekimi yalan, ben inançlıyım

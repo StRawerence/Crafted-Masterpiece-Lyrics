@@ -6,13 +6,16 @@ Dies sollemnis ad nos advenit
 turba fidelium concordat
 porta pacata panditur nunc
 
+[Verse]
 Vestes candidae fulgent in ordine
 multi ex populis conveniunt
 testimonia vetera fiunt viva
 
+[Pre-Chorus]
 Beati mites qui cor componunt
 beati pacifici seminant iter
 
+[Chorus]
 Omnes Sancti, carmen commune surgit
 Lux super urbem fit clarior
 Corona vitae splendet super turmas
@@ -21,13 +24,16 @@ Memoria Sanctorum manet inter nos
 
 [Instrumental]
 
+[Verse]
 Annos per annos exempla manent
 parvuli audiunt senes referunt
 via communis fovet animos
 
+[Pre-Chorus]
 Beati qui iustitiam sitiunt
 lacrimae vertuntur in auroram
 
+[Chorus]
 Omnes Sancti, carmen commune surgit
 Lux super urbem fit clarior
 Iter fidelium firmatur inter nos
@@ -41,6 +47,7 @@ Patientia peregrinos corroborat
 Communis cura familiam fovet
 Memoria recta nos ducit ad pacem
 
+[Chorus]
 Omnes Sancti, carmen commune surgit
 Lux super urbem fit clarior
 Cor in concordia longius tendit

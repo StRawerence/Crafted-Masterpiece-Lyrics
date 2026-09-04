@@ -1,10 +1,12 @@
 [Vocalization]
 
+[Verse]
 Origo cum termino se iungit in calice rictus
 Sanguis contra fluctum ad altum reascendit
 Myriades animarum sub pressu contorquentur
 Unum praeceptum sonat, novum iter accendit
 
+[Verse]
 Fila rubra de superno descendunt ad guttur
 Truncus in spiralem terram fodit atque alitur
 Pinnae fenestratae in orbe circumvolant
@@ -15,6 +17,7 @@ In ore dentato mysterium panditur
 Inter ortum et exitum certamen latet
 Calix memoriam haurit, viam reficit
 
+[Chorus]
 Origo cum termino se iungit in calice rictus
 Sanguis contra fluctum ad altum reascendit
 Myriades animarum in nodo colliguntur
@@ -32,6 +35,7 @@ Figurae in alis tabulis vetera vertunt
 Radix in vorticem volvitur et canit
 Quies immota novum principium parit
 
+[Chorus]
 Origo cum termino se iungit in calice rictus
 Sanguis contra fluctum ad altum reascendit
 Qui confracti fuere, compages finguntur

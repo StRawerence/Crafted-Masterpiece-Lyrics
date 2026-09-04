@@ -18,6 +18,7 @@ Kannaan lehtien viestit, vien ne perille
 Kysyn niiltä minne matka vielä vie
 Ne vastaavat: sinne, missä maa saa levon
 
+[Chorus]
 Ruska mittaa päivän toisin kuin eilen
 Lehdet lähtevät matkaan, eivät katoa täysin
 Minä jään vartioon rinteillä, varhain ja myöhään
@@ -38,6 +39,7 @@ Kun sinun kulkusi kiihtyy, minun aikani hellittää
 Päivä lyhenee, rinne vain hiljenee
 Pysyminenkin on työtä, joka muodon säilyttää
 
+[Chorus]
 Ruska mittaa päivän toisin kuin eilen
 Lehdet löytävät kyydin, eivät häviä minnekään
 Minä jään vartioon rinteillä, valossa ja hämärässä
@@ -50,6 +52,7 @@ Emme kilpaile ajasta, jaamme hetkeä syvemmän rauhan
 Yksi kulkee ja toinen jää — kumpaakin tarvitaan
 Jotta lyhyt loisto ehtii valmistaa talveen
 
+[Chorus]
 Ruska mittaa päivän toisin kuin eilen
 Lehdet vaeltavat kauas, mutta muisto pysyy
 Minä jään rinteiden suojaan, järvien ympärille

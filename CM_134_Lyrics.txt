@@ -6,6 +6,7 @@ Urbs vitrea micat in aeria
 Linea neon trahit phantasia
 Pulsus occultus alit energia
 
+[Verse]
 Machina discit figuras ex memoria
 In retibus tenuis fit harmonia
 Via interior parit industria
@@ -15,6 +16,7 @@ Mens artificiata quaerit historia
 Quid inter vigilias et somnia
 Si cor syntheticon haurit melodia
 
+[Chorus]
 Machina somniorum, duc me per via
 Per noctem vitreā, per lucis fascia
 Imago nascitur intra materia
@@ -22,6 +24,7 @@ Tactus numericus mutat poësia
 
 [Instrumental]
 
+[Verse]
 Tecta translucent mutant faciem urbia
 Circuitus sibilat leni euthymia
 Gradus methodicus format consilia
@@ -31,6 +34,7 @@ Spatia interna trahunt desideria
 Neon subtiliter pandit prospecta
 Mens algorithmica fit audacia
 
+[Chorus]
 Machina somniorum, pandis ostia
 Per plexum lucis volvitur navia
 Visus modularis texit fabrica
@@ -44,6 +48,7 @@ Iter interius fit praxim et theoria
 
 [Build-up]
 
+[Chorus]
 Machina somniorum, tene praeconia
 Da spatium mite intra custod ia
 Si dormio tecum, oritur quaestio
