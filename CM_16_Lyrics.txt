@@ -1,6 +1,8 @@
 [Vocalization]
 Ahaaa—ha…
 Ahah—hoo
+
+[Verse]
 At dawn she sweeps across the marble court
 Her skirts swirl in silent vow of support
 She holds a locket pressed against her heart
